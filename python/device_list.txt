@@ -1,0 +1,1594 @@
+Projector
+Video Projector
+DVD_WINDVD
+SAT_8776
+CONVERTER_DTA1080U
+ThinBox
+Signal Generator
+Karaoke
+Millenium
+SAT_ICAN3000
+Set Top Box
+AV Preamplifier
+CD Player
+Pre-Amplifier
+Receiver
+Surround Processor
+Tuner
+Cable Box
+AUDIO_Tech
+TV_Instant
+MCE_AIM-RC126
+RADIO
+Fan
+Cassette Tape
+Mini System
+VCR
+Input Selector
+Twin Receiver
+PLR-IR1
+MOUSE
+TV
+Satellite Radio
+Media PC
+DVD Player
+Apple TV
+Computer
+Digital Jukebox
+iPod
+MP3 Player
+Music System
+Surround Receiver
+Amplifier
+Multi-Zone Receiver
+CD Jukebox
+Satellite
+Matrix Switcher
+Switcher
+Zone Controller
+HDMI Switcher
+IR to Bluetooth
+Processor
+DEC654_DVB-T
+Monitor
+Media Server
+MediaMax
+HD DVR
+DLP Projector
+Game Console
+2-Channel Preamp
+6 Zone Receiver
+Theater Preamplifier
+Theater-Zone 2
+3-2-1
+CCF Conversion
+Lifestyle
+Media Center
+Music Center
+System
+Drapery Controller
+Elektro
+Light
+LCD
+VGA Switcher
+Video Switcher
+Control System
+Camera Multi Plex
+Laser Disc
+IR to RS232
+Motorized Lift
+Video Scaler
+DSS
+DVD Changer
+HDTV ALL
+LCD Projector
+Plasma
+DVR
+CRCD
+Integrated Amplifier
+SACD
+Surround Sound
+Music Server
+Digital Cable
+HD Cable with DVR
+Relaybox
+IR Receiver
+Lighting Controller
+Screen
+Projector_T20
+Camera Switcher
+Satellite Receiver
+AV Processor
+Blu-Ray
+CD Receiver
+DAT
+Mini-Disc
+DGQ-3300_DVB-T
+DGQ-7600HD_DVB-T
+DVB-T
+DMX
+HDTV Tuner
+Basic Satellite
+Receiver HD
+Receiver HDDVR
+Receiver SD
+Receiver SDDVR
+Satelite DVR
+HomeDock
+Dropdown Screen
+Electric Screen
+Scaler
+Video Processor
+Line Multiplier
+Dish Network
+PVR SAT
+DVD Manager
+HD
+IR Router
+Jukebox
+Master Controller
+Video Controller
+Volume Control
+Plasma Lift
+Camera
+CAMERA_PRC-100S
+CD Management
+Digital Media Receiver
+DVD Library
+Hard Drive Recorder
+Media Manager
+Line Doubler
+Line Quadrupler
+TVS
+Air Conditioner
+DVD Server
+VCR_VKFS0938
+DVI Switcher
+Theater in Box
+DVD Recorder
+Sat
+Video Recorder
+CD Changer
+CD-R
+PS3 Adaptor
+Dipper
+Display
+HD Satellite HD Tivo
+HD with TiVo
+TiVo
+Com Hem Box
+Tivo + DVD
+Digital Audio
+HD DVD
+Distributed Audio
+iPort
+3331_DVB-T
+DVD Receiver
+Camcorder
+D-VHS
+HD-ILA Projection
+LCD TV
+S-VHS
+Distributed
+DVBS-Receiver
+iPod Dock
+Sirius
+Component Switcher
+h265
+Subwoofer
+Sound Bar
+Media Adapter
+Classic music
+Lighting
+DVD
+Plasma Displays
+Tuner Section
+800 System Remote
+Remote Control
+System Remote
+Humidifier
+Home Media PC
+Windows Media Center
+Digital Decoder
+HDTV Receiver
+Cox
+IP box
+Remote
+Digital Recorder
+DVD Jukebox
+Router
+Rear Projection DLP TV
+DTV Decoder
+Speaker
+System Controller
+Boombox
+DSP
+DV Cam
+8209_DVB-T2
+8821_DVB-T
+Tangent-HiFi-II_Ampster-BT_CD_Tuner
+AUDIO_IR3000
+TV_1127
+TV_RC-1345
+VCR_FB1550
+VCR_RC1323-Video-B
+PC HDTV Tuner Card
+Internet Radio
+PVR
+SAT
+SAT_SR420
+VCR_VR743A
+Programmer
+Relay Module
+DVD Pre-amp
+Sound Projector
+Stereo Receiver
+ZDEBT2
+
+
+Unknown Devices:
+
+2wire Unknown_2wire
+Acer Unknown_Aspire
+Acer Unknown_AT3201W
+Acer Unknown_RC-802
+Aconatic Unknown_AN-2121
+Acorp Unknown_Acorp-878
+Adcom Unknown
+Adcom Unknown
+Advanced Acoustics Unknown_Acoustic
+Aiwa Unknown
+Aiwa Unknown_AIWA
+Aiwa Unknown_AIWA
+Aiwa Unknown_AIWA
+Aiwa Unknown_AIWA
+Aiwa Unknown_AIWA-RC-5VP05
+Aiwa Unknown_AWIA-RC-ZVR04
+Aiwa Unknown_HIFI
+Aiwa Unknown_hu
+Aiwa Unknown_RC-6AS07
+Aiwa Unknown_RC-7AS06
+Aiwa Unknown_RC-8AS04
+Aiwa Unknown_RC-8AT02
+Aiwa Unknown_RC-AVT02
+Aiwa Unknown_RC-BVR02
+Aiwa Unknown_rc-c003
+Aiwa Unknown_RC-C105
+Aiwa Unknown_RC-CAS10
+Aiwa Unknown_RC-L01
+Aiwa Unknown_RC-L60E
+Aiwa Unknown_RC-T503
+Aiwa Unknown_RC-T504
+Aiwa Unknown_RC-TD3
+Aiwa Unknown_RC-TN320EX
+Aiwa Unknown_RC-TN330
+Aiwa Unknown_RC-TN360
+Aiwa Unknown_rc-tn380b
+Aiwa Unknown_RC-TN500EX
+Aiwa Unknown_RC-TN520EX
+Aiwa Unknown_rc-tz650
+Aiwa Unknown_RC-X97
+Aiwa Unknown_RC-XR-MD201
+Aiwa Unknown_RC-ZAS02
+Aiwa Unknown_RC-ZAS10
+Aiwa Unknown_RC-ZAT04
+Aiwa Unknown_RC-ZVR02
+Aiwa Unknown_rc6as14
+Aiwa Unknown_S79
+Akai Unknown_akai
+Akai Unknown_akai
+Akai Unknown_Akai-RC-61A
+Akai Unknown_AKAI-RC-AAV2100
+Akai Unknown_Akai-RC-V23E
+Akai Unknown_rc-c37
+Akai Unknown_RC-C79
+Akai Unknown_RC-W152E
+Akai Unknown_RC-W201G
+Akai Unknown_RC-W212F
+Akai Unknown_RC-X121E
+Akai Unknown_RC-Y121G
+Akai Unknown_RC891
+Akai Unknown_TV
+Akai Unknown_V425A
+Aki Unknown_DVD-838W
+Allsat Unknown_sat
+alpine Unknown_rue-4185
+alpine Unknown_RUE-4187
+Amstrad Unknown_DX3070
+Amstrad Unknown_srd650
+Amstrad Unknown_SRX340
+Amytel Unknown_ACI-200
+anysee Unknown_anysee
+Aopen Unknown_RC-R470
+Apex Unknown_AD-600A
+Apex Unknown_DV-R200
+Apex Unknown_DV-R383
+Apex Unknown_K12B-C2
+Apex Unknown_K12K-C5
+Apex Unknown_RM-1200
+Apex Unknown_RM-2600
+Apple Unknown_CD
+Arcam Unknown_Arcam
+Arcam Unknown_AV200
+Aristona Unknown_5525
+Aristona Unknown_9067
+Askey Unknown_AS-218
+Aspire Digital Unknown_Digital
+Astro Unknown_ASR340
+Asus Unknown_Digital
+Asus Unknown_RC1974502
+Asus Unknown_TVBox
+Aten Unknown_VS-431
+Atlanta DTH Unknown_DTH
+Atlas Unknown_8776
+audiosonic Unknown_TXCD-1240
+AudioSource Unknown_SS-Three
+Audiovox Unknown_SIR
+Audiovox Unknown_Sirius
+AutumnWave Unknown_Onair
+Avermedia Unknown_Avermedia
+Avermedia Unknown_AVerTV5
+Avermedia Unknown_RM-H7
+Avermedia Unknown_RM-KV
+Avex Unknown_AVEX-AV5609
+Avex Unknown_AVEX-RC501
+Avtoolbox Unknown_hdswitch
+Axion Unknown_AXN-6075
+AzBox Unknown_S700
+Barco Unknown_barcoRC5
+BBK Unknown_Popcorn
+BBK Unknown_PV400s
+BBK Unknown_RC022-03R
+Beko Unknown_Beko
+Beko Unknown_TV
+Belkin Unknown_F5X019
+Bellagio Unknown_P807
+Bench Unknown_kh2800
+BenQ Unknown_DV3080
+BenQ Unknown_MP620
+BenQ Unknown_W1070
+Bluesky Unknown_DV900
+BORK Unknown_DV
+Bose Unknown_Wave
+Bose Unknown_WAVERADIO
+Bush Unknown_4400
+Bush Unknown_DFTA1xi
+Bush Unknown_WS6680
+Cambridge Audio Unknown_Audio
+Cambridge Audio Unknown_X40A
+Canalsat Unknown_CanalSat
+Canalsat Unknown_CanalSatHD
+Canon Unknown_CAM
+Canon Unknown_canon
+Canon Unknown_WL-D77
+Canon Unknown_WL-D80
+Canon Unknown_WL-DC100
+Canon Unknown_WL-V1
+Captain Unknown_7100usb
+Casio Unknown_CMD-40
+CAT Unknown_CS-907
+CAT Unknown_DVD-1122
+CAT Unknown_KF-9816
+Cce Unknown_RC-27
+Cce Unknown_RC-28b
+Cce Unknown_TV-CCE
+Cce Unknown_VCR-CCE
+cenOmax Unknown_F702
+Centrum Unknown_Gemini
+Centrum Unknown_rc5
+Century Concept Unknown_dvd
+Chaparral Unknown_11-5315-1
+CHINON Unknown_CHINON
+Citizen Unknown_JX-2022C
+Commodore Unknown_cdtv
+Compro Unknown_DVB-T200
+Compro Unknown_VideoMate-K300
+Conrad Unknown_006
+Conrad Unknown_Promo8
+Contour Unknown_Contour25
+Coolsat Unknown_Pro
+COSMEL Unknown_COSMEL
+Cph03x Unknown_AS-218
+Creative Unknown_DDTS-100
+Creative Unknown_INFRA
+Creative Unknown_JUKEBOX3
+Creative Unknown_RM-1500
+Creative Unknown_RM-1800
+Creative Unknown_RM-850
+Creative Unknown_rm1000w
+Creative Unknown_RM900
+Crown Unknown_cd-80
+Crown Unknown_testinglirc.config
+Curtis Electronics Unknown_TV
+Cyberhome Unknown_300-RMC-300Z
+Cyberhome Unknown_504
+Cyberhome Unknown_ADL-528
+Cyberhome Unknown_CH-DVD
+Cyberhome Unknown_CH-DVD-302
+Cyberhome Unknown_cyberhome
+Cypress Unknown_CR-72
+D-LINK Unknown_DSM320
+D-LINK Unknown_i2eye
+Daeumling Unknown_SR200
+Daewoo Unknown_14Q3
+Daewoo Unknown_97P04701
+Daewoo Unknown_97P1R2ZDA0
+Daewoo Unknown_97P1RA3AB0
+Daewoo Unknown_DAEWOO
+Daewoo Unknown_DAEWOO
+Daewoo Unknown_DS608P
+Daewoo Unknown_DV-800
+Daewoo Unknown_DV-F24D
+Daewoo Unknown_DVDS150
+Daewoo Unknown_r-22
+Daewoo Unknown_R-40A06
+Daewoo Unknown_R-40A10
+Daewoo Unknown_R-40A15
+Daewoo Unknown_R-43A08
+Daewoo Unknown_VCR
+Daewoo Unknown_VCR
+Daewoo Unknown_Visa
+Dantax Unknown_RC
+daytron Unknown_daytron
+Dell Unknown_XPS
+Denon Unknown
+Denon Unknown_Denon
+Denon Unknown_denon-rc-251
+Denon Unknown_denon-rc-266
+Denon Unknown_RC-220
+Denon Unknown_RC-224
+Denon Unknown_RC-241
+Denon Unknown_RC-541
+Denon Unknown_RC-861
+Denon Unknown_RC267
+Denver Unknown_DVD-228
+DIFRNCE Unknown_DVD5010S
+Digital Stream Unknown_Stream
+DirecTV Unknown
+DirecTV Unknown
+DirecTV Unknown_G051204
+DirecTV Unknown_H23
+DirecTV Unknown_HD20-100
+DirecTV Unknown_RC16
+DirecTV Unknown_RC32
+DirecTV Unknown_RC64
+DK Digital Unknown_Digital
+Domland Unknown_domland-MH10CA
+Dream Multimedia Unknown_URC7562
+DSE Unknown_G1605
+DSE Unknown_G1928
+DSE Unknown_G7659
+dual Unknown_dual
+Durabrand Unknown_PTV141
+DVICO Unknown_FusionRemote
+Dynaudio Unknown_Sub
+Dynex Unknown_DX-CVS4
+E-tech Unknown_FLY98
+Eagle Aspen Unknown_Aspen
+Echostar Unknown_AD3000IP
+Echostar Unknown_DSB-616
+Echostar Unknown_DSB-636
+Elenberg Unknown_RC-404E
+Elitron Unknown_utk
+ELTASAT Unknown_SAT170
+eltax Unknown_corniche
+Emerson Unknown_emerson
+Emerson Unknown_emerson-cd
+Emerson Unknown_Emerson-NB050-DVD
+Emerson Unknown_emersontv
+ENTONE Unknown_URC-4021ABA1-006-R
+Epson Unknown_12807990
+Epson Unknown_ELPST12
+Euroconsumers Unknown_LG-5988
+Expressvu Unknown_3100
+Fagor Unknown_TEDI100
+Falcon Unknown_VT-1000
+fenner Unknown_fenner
+Fisher Unknown_ra
+Fisher Unknown_RC720F
+Fisher Unknown_RCA-9060
+Fisher Unknown_REM-1500
+Fortec Unknown_Lifetime
+Fortec Unknown_Mercury2
+Foxtel Unknown_Digital
+Foxtel Unknown_foxtel
+Free Unknown_REMOTE
+Free Unknown_V5
+Freecom Unknown_MP35
+Freecom Unknown_usb
+Fresat Unknown_SER-3000PL
+FTE Maximal Unknown_FTE
+FUBA Unknown_ALPS
+FUBA Unknown_FUBA
+Fujitsu Unknown_CP300375-01
+Fujitsu Siemens Unknown_RC1-1241-21
+Fujitsu Siemens Unknown_RC811
+Fujtech Unknown_DVB-T
+FUNAI Unknown_NF021RD
+Galaxis Unknown_GALAXIS-RC5
+Galaxis Unknown_Galaxis-RCMM
+Galaxis Unknown_Galaxis.sat
+Galaxis Unknown_rc1
+GAMEFACTORY Unknown_PS2DVD
+Gefen Systems Unknown
+General Unknown_VCR
+General Instruments Unknown_550
+General Instruments Unknown_XRC-200
+Geniatech Unknown_Supera
+Genius Unknown_Genius-DVB-T32
+Genus Unknown_DU1
+Get Unknown_gethdpvr
+Gigabyte Unknown_TV
+Golden Interstar Unknown_Interstar
+GoldStar Unknown_cd
+GoldStar Unknown_GOLDSTAR
+GoldStar Unknown_Goldstar-VCR
+GoldStar Unknown_RN800AW
+GoldStar Unknown_VCR
+Goodmans Unknown_GDB
+Goodmans Unknown_GDVD124
+Goodmans Unknown_md305
+Goodmans Unknown_RC-BM
+Govideo Unknown_GoVideoD2730
+Gradiente Unknown_D-10
+Gradiente Unknown_GSD-100
+Gran Prix Unknown_prix
+Grundig Unknown_2500S
+Grundig Unknown_84D
+Grundig Unknown_CDM700.cfg
+Grundig Unknown_Grundig-TP660
+Grundig Unknown_RC-TP3
+Grundig Unknown_RC8400CD
+Grundig Unknown_RP
+Grundig Unknown_rp700
+Grundig Unknown_TP
+Grundig Unknown_TP-750C
+Grundig Unknown_tp621
+Grundig Unknown_UMS9V
+Guillemot Unknown_RemoteWizard-GN-263
+GVC Unknown_RM-RK50
+Hama Unknown_Internet
+Hama Unknown_PhotoPlayer
+Hampton Bay Unknown_Bay
+Harman Kardon Unknown
+Harman Kardon Unknown_DVD
+Harman Kardon Unknown_harmankardon
+Harman Kardon Unknown_HD730
+Harman Kardon Unknown_Kardon-DVD
+Hauppauge Unknown_DSR-0095
+Hauppauge Unknown_hauppauge-stb
+Hauppauge Unknown_MVP
+Hauppauge Unknown_R808
+Hauppauge Unknown_WinTV-HVR
+Hauppauge Unknown_WinTV-HVR-950Q
+HB Unknown_DIGITAL
+Hello Kitty Unknown_Kitty
+Hermstedt Unknown_Hifidelio
+Hinen Electronics Unknown_Electronics
+Hip Interactive Unknown_GE1002
+Hirschmann Unknown_RC426
+Hitachi Unknown_CLE-941
+Hitachi Unknown_CLE-947
+Hitachi Unknown_CP-X345
+Hitachi Unknown_DV-RM335E
+Hitachi Unknown_FX7
+Hitachi Unknown_HFTV
+Hitachi Unknown_Hitachi
+Hitachi Unknown_Hitachi
+Hitachi Unknown_hitachi.conf
+Hivion Unknown_SAT
+Hokkaido Unknown_Airconditioner
+Homecast Unknown_DVB-S
+Homecast Unknown_DVB-T
+HP Unknown_465539-002
+HP Unknown_DV4-1125NR
+HP Unknown_DV6331
+HP Unknown_Pavilion
+HP Unknown_RC172308-01B
+HP Unknown_RC1762302-00
+HP Unknown_RC1762307-01
+HP Unknown_RC2234302-01B
+HQ Unknown_RC
+Hughes Unknown_b2
+Hughes Unknown_DSS
+Hughes Unknown_HRMC-8
+Humax Unknown_F1CI
+Humax Unknown_HUMAX
+Humax Unknown_Humax-5400IRCI
+Humax Unknown_Humax-RC-536P
+Humax Unknown_lircd.conf
+Humax Unknown_RS-521
+huth Unknown_prof
+Hyundai Unknown_H-DVD5038N
+Hyundai Unknown_l17t
+I24 Unknown_I24
+Illusion Unknown_M3
+imon Unknown_MultiMedian
+InFocus Unknown_InFocus-SP8600
+InFocus Unknown_remote
+InFocus Unknown_ScreenPlay
+Insignia Unknown_WIR147002-8301
+Interact Unknown_I-22121
+Intervision Unknown_Intervision
+ione Unknown_remote
+Irradio Unknown_IrradioHIFI1300V
+italtel Unknown_italtel
+ITT Unknown_ITT
+ITT Unknown_ITTNOKIA
+ITT Unknown_RC40
+ITT Unknown_RC51
+Jerrold Unknown_550-osd
+Jerrold Unknown_CFT2000
+Jerrold Unknown_MRC
+Jerrold Unknown_RC-OSD
+JVC Unknown_440
+JVC Unknown_JVC
+JVC Unknown_jvc-lp20465-005-vcr
+JVC Unknown_JVC-RM-C475W
+JVC Unknown_JvcDishPlayer500
+JVC Unknown_LP20106-002
+JVC Unknown_PQ10543
+JVC Unknown_remote
+JVC Unknown_RM-C1251G
+JVC Unknown_rm-c241
+JVC Unknown_RM-C360
+JVC Unknown_RM-C410
+JVC Unknown_RM-C462
+JVC Unknown_RM-C530
+JVC Unknown_RM-C670
+JVC Unknown_RM-C678
+JVC Unknown_RM-RK50
+JVC Unknown_RM-RK60
+JVC Unknown_RM-RX130
+JVC Unknown_RM-RX250
+JVC Unknown_RM-RXU1
+JVC Unknown_RM-RXUA4
+JVC Unknown_RM-RXUT200R
+JVC Unknown_RM-SMXJ100E
+JVC Unknown_RM-SX263U
+JVC Unknown_RM-SXVS40A
+JVC Unknown_RM-V1E
+JVC Unknown_RM-V718U
+JVC Unknown_RM-V730U
+JVC Unknown_sw
+JVC Unknown_SXV037J
+Kaon Unknown_KSC-i260MCO
+Kaon Unknown_KTF-100CO
+Kaon Unknown_KTF-I2001CO
+Kathrein Unknown_KathreinUFD400
+KAWA Unknown_TV
+kendo Unknown_RC-610
+KENMORE Unknown_253-79081
+Kenwood Unknown_RC-160
+Kenwood Unknown_RC-A0400
+Kenwood Unknown_RC-D0705.conf
+Kenwood Unknown_RC-M0301
+Kenwood Unknown_RC-M0701
+Kenwood Unknown_RC-P030
+Kenwood Unknown_RC-P0400
+Kenwood Unknown_RC-P070
+Kenwood Unknown_RC-P0702
+Kenwood Unknown_RC-P0715
+Kenwood Unknown_RC-P2030
+Kenwood Unknown_RC-P600
+Kenwood Unknown_rc-p800
+Kenwood Unknown_rc-p87
+Kenwood Unknown_RC-R0311E
+Kenwood Unknown_RC-RO503
+Khl Unknown_REC-R3000
+Kiss Unknown_DP-1500s
+konig Unknown_konig
+Konka Unknown_KK-Y199
+Konka Unknown_KK-Y250A
+kosmos Unknown_kosmos
+Kworld Unknown_ATSC
+Kworld Unknown_DVB-T
+Kworld Unknown_KWorld-DVBT-220
+Kworld Unknown_KWorld-DVBT-PE310
+Kworld Unknown_VS-PRV-TV
+L+S Unknown_30755
+L+S Unknown_LS
+Lacie Unknown_Lacie
+Lacie Unknown_PNE-N1SS
+Lasonic Unknown_LasonicR2000
+Leadership Unknown_GOTEC
+LeadTek Unknown_RM-0007
+LeadTek Unknown_Y0400046
+LeadTek Unknown_Y0400052
+LeadTek Unknown_Y04G0004
+LEMON Unknown_LEMON
+Lenovo Unknown_Y530
+LG Unknown_42H3000
+LG Unknown_6710CDAP01B
+LG Unknown_6710T00009B
+LG Unknown_6710V00067G
+LG Unknown_6710V00070A
+LG Unknown_6710V00090D
+LG Unknown_6710V00090N
+LG Unknown_6710V00091N
+LG Unknown_6710V00133A
+LG Unknown_AKB69680403
+LG Unknown_AKB72915207
+LG Unknown_AKB73715601
+LG Unknown_BC205P
+LG Unknown_BD300
+LG Unknown_CC470TW
+LG Unknown_LG
+LG Unknown_LG-AKB69680403
+LG Unknown_LG-EV230
+LG Unknown_LG.6710V00005G
+LG Unknown_LG.6710V00008K
+LG Unknown_MKJ40653807
+LG Unknown_MKJ61842704
+LG Unknown_PBAFA0189A
+Life-view Unknown_3000
+Life-view Unknown_flyvideo
+Lifesat Unknown_28
+Lifetec Unknown_LT9096
+Lifetec Unknown_RC2000
+Lifetec Unknown_remote
+Linksys Unknown_WMA11B-R
+Loewe Unknown_8500H
+Loewe Unknown_control
+Logitech Unknown_HarmonyOne
+Logitech Unknown_z5500
+Luxor Unknown_DV405
+M3 Electronic Unknown_DVD-209
+Macro Image Technology Unknown_MyHD
+MAGNASONIC Unknown_TV
+Magnavox Unknown_UNIFIED6TRANS
+Magnum Unknown_5520VT
+Majestic Unknown_DVX377USB
+Manhattan Unknown_DVD
+Manta Unknown_DVD-002
+Manta Unknown_DVD-007
+Marantz Unknown_Marantz-RC-63CD
+Marantz Unknown_rc
+Marantz Unknown_RC-1400
+Marantz Unknown_RC-65CD
+Marantz Unknown_RC-72CD
+Marantz Unknown_RC4000CD
+Marantz Unknown_RC4300CC
+Mark Unknown_rc5
+Mas Unknown_HSD-303
+Mas Unknown_HSD-400
+Mas Unknown_RC-0135
+MCL Unknown_RemoteController
+media-tech Unknown_RUMBA
+Medion Unknown_JX-2006B
+Medion Unknown_MD-5410
+Medion Unknown_MD81035
+Medion Unknown_MD81880
+Medion Unknown_medion
+Medion Unknown_rc2000
+Melectronic Unknown_PP3600
+Meliconi Unknown_Facile
+Meliconi Unknown_MELICONI-U3
+Meliconi Unknown_MeliconiSpeedy2
+Meliconi Unknown_Speedy
+METRONIC Unknown_060501
+METRONIC Unknown_SAT
+Microsoft Unknown_MCE
+Microsoft Unknown_xbox
+Microsoft Unknown_Xbox360
+MIRO Unknown_MIRO
+Mitochiba Unknown_JX-9902
+Mitochiba Unknown_KF220100
+Mitsubishi Unknown
+Mitsubishi Unknown
+Mitsubishi Unknown
+Mitsubishi Unknown_75501
+Mitsubishi Unknown_HD1000
+Mitsubishi Unknown_HS-349
+Mitsubishi Unknown_mitsubishi
+Mitsubishi Unknown_tv
+mivar Unknown_mivar
+Monoprice Unknown_HDX(C)-501E
+Morgans Daytona Unknown_T15
+Morgans Daytona Unknown_Tornado
+Motorola Unknown_4dtv
+Motorola Unknown_Cable
+Motorola Unknown_DCH3416
+Motorola Unknown_DCT2000
+Motorola Unknown_DCT2244
+Motorola Unknown_DCT2524
+Motorola Unknown_DRC800
+Motorola Unknown_DTH320-4
+Motorola Unknown_DTH355
+Motorola Unknown_DVi2030
+Motorola Unknown_MOTOROLA
+Motorola Unknown_QIP2500
+Motorola Unknown_RC1445302-00B-REV2
+Motorola Unknown_VIP
+MS-Tech Unknown_HTPC
+MS-Tech Unknown_MS-Tech
+MSI Unknown_lircd.conf
+MSI Unknown_MegaPC
+MSI Unknown_PC
+MSI Unknown_test
+mStation Unknown_mStation
+Multi Canal Unknown_Canal
+Multichoice Unknown_DSD910
+multiTEC Unknown_multiTEC
+Mustek Unknown_DVD
+Mustek Unknown_MustekDVD
+Mustek Unknown_RMC-V300
+Mvision Unknown_FCIS7000E+
+NAD Unknown
+NAD Unknown_451
+NAD Unknown_NAD
+NAD Unknown_RC512
+NAD Unknown_SR6
+NAD Unknown_SR712
+Nagra Unknown_TVA
+Nakamichi Unknown_lirc.config
+Napa Unknown_DAV-309
+Nebula Electronics Unknown_DVB
+NEC Unknown
+NEC Unknown
+NEC Unknown_RB-34P
+NEC Unknown_RB-73A
+NEC Unknown_RB-D3A
+NEC Unknown_RB-DV22
+NEC Unknown_RC-1065E
+NEC Unknown_RC-1083E
+NEC Unknown_RC-334E
+NEC Unknown_RC-6010
+NEC Unknown_RD-1077E
+NEC Unknown_RD-1078E
+NEC Unknown_RD-1083E
+NEC Unknown_RD-337E
+NEC Unknown_RD-343E
+NEC Unknown_RD-348E
+NEC Unknown_RD-409E
+NEC Unknown_RD-427E
+NEC Unknown_RU-1220S
+NEC Unknown_TRB-60
+NEC Unknown_TRB-968A
+NEC Unknown_UR-3020
+Netgem Unknown_iPlayer
+Nextwave Unknown_EX300
+Nikko Unknown_Nikko
+Niles Audio Unknown
+Niles Audio Unknown
+No Brand Unknown_YK-001
+Nokia Unknown_624
+Nokia Unknown_MM9780S
+Nokia Unknown_Nokia
+Nokia Unknown_NokiaVC620
+Nokia Unknown_RCN610
+Nokia Unknown_VCN620
+Nokia Unknown_VCR
+Norcent Unknown_DP
+NorthQ Unknown_6400
+Now Broadband TV Unknown_Broadband
+Now Broadband TV Unknown_Broadband
+NTL Unknown_DI4001N
+NVIDIA Unknown_Personal
+oceanic Unknown_oceanic
+Olevia Unknown_RC-LTFN
+Olevia Unknown_RC-LTL
+Olympus Unknown_RM-1
+Olympus Unknown_RM-2
+One For All Unknown_7720
+One For All Unknown_control-Philips-0081d
+One For All Unknown_For
+One For All Unknown_For
+One For All Unknown_ofa-urc-7550-vcr0150
+One For All Unknown_One-For-All
+One For All Unknown_Phillips
+One For All Unknown_SAT
+One For All Unknown_URC-2510(12341)
+One For All Unknown_URC-3021B00-VCR-0081
+One For All Unknown_URC-3440
+One For All Unknown_URC-5550
+One For All Unknown_URC-6012w
+One For All Unknown_URC-7020
+One For All Unknown_URC-7240
+One For All Unknown_URC-7530
+One For All Unknown_URC-7555
+One For All Unknown_URC-7562
+One For All Unknown_URC-7710
+One For All Unknown_URC-8204.1300
+One For All Unknown_URC-8910
+One For All Unknown_urc7562
+One For All Unknown_urc7730
+One For All Unknown_VCR
+Onida Unknown_DFX
+Onida Unknown_TVE
+Onkyo Unknown
+Onkyo Unknown
+Onkyo Unknown_CR-70R
+Onkyo Unknown_Onkyo
+Onkyo Unknown_Onkyo
+Onkyo Unknown_Onkyo
+Onkyo Unknown_RC-104C
+Onkyo Unknown_RC-146T
+Onkyo Unknown_RC-184s
+Onkyo Unknown_rc-211s
+Onkyo Unknown_rc-252s
+Onkyo Unknown_RC-425DV
+Onkyo Unknown_RC-50
+Onkyo Unknown_RC-682M
+Optex Unknown_ORT
+orion Unknown_orion
+orion Unknown_orion-RC57
+orion Unknown_RC-CB
+orion Unknown_TV-713
+OSRAM Unknown_OSRAM
+Pace Unknown_DC551P
+Pace Unknown_DI4001N
+Pace Unknown_DI4010I
+Pace Unknown_Digital
+Pace Unknown_DS420
+Pace Unknown_DS620
+Pace Unknown_PACE-RC-10
+Pace Unknown_PaceMSS
+Pace Unknown_pacetwin
+Pace Unknown_RC-17
+Pace Unknown_RC-30
+Pace Unknown_TDS460NNZ
+Pace Unknown_xsat
+Packard Bell Unknown_PackBell
+Palcom Unknown_DSL-6
+palmbutler Unknown_palmbutler
+Panasonic Unknown_CARC60EX
+Panasonic Unknown_cd
+Panasonic Unknown_EUR57510
+Panasonic Unknown_EUR642162
+Panasonic Unknown_EUR642195
+Panasonic Unknown_EUR643820
+Panasonic Unknown_EUR643826
+Panasonic Unknown_EUR7617010
+Panasonic Unknown_EUR7621010
+Panasonic Unknown_EUR7631010
+Panasonic Unknown_EUR7914Z20
+Panasonic Unknown_N2QADC000006
+Panasonic Unknown_N2QAHB0048
+Panasonic Unknown_N2QAYB000064
+Panasonic Unknown_NV-F65
+Panasonic Unknown_panas928
+Panasonic Unknown_PANASONIC
+Panasonic Unknown_PANASONIC
+Panasonic Unknown_Panasonic-EUR571100
+Panasonic Unknown_Panasonic-RAK-RX314W
+Panasonic Unknown_panasonic-RAX-RX318W
+Panasonic Unknown_panasonic.conf
+Panasonic Unknown_RAK-RX309W
+Panasonic Unknown_RC4346-01B
+Panasonic Unknown_RX-ED70
+Panasonic Unknown_TV
+Panasonic Unknown_VCR
+Panasonic Unknown_VEQ0910
+Panasonic Unknown_VEQ1309
+Panasonic Unknown_VEQ1697
+Panasonic Unknown_veq2249
+Panasonic Unknown_VEQ2380
+Panasonic Unknown_VSQS0531
+Panda Unknown_DVD-6838
+Pansat Unknown_2500a
+Pansat Unknown_2700
+Pansat Unknown_2700a
+Peekton Unknown_IR6005
+Philco Unknown_PCR-111
+Philips Unknown_01
+Philips Unknown_01
+Philips Unknown_101
+Philips Unknown_130A
+Philips Unknown_17PT1563
+Philips Unknown_26PFL5604H
+Philips Unknown_32PFL5403D
+Philips Unknown_5260
+Philips Unknown_5300
+Philips Unknown_5373
+Philips Unknown_8243
+Philips Unknown_95
+Philips Unknown_AV5609
+Philips Unknown_CD
+Philips Unknown_CD720
+Philips Unknown_CD723
+Philips Unknown_digital
+Philips Unknown_DSX-5500
+Philips Unknown_DVD-724
+Philips Unknown_DVD711
+Philips Unknown_dvd712
+Philips Unknown_DVP-5982
+Philips Unknown_DVP-642
+Philips Unknown_FW2104
+Philips Unknown_LV2
+Philips Unknown_MULTI
+Philips Unknown_MULTI
+Philips Unknown_MULTI
+Philips Unknown_PHDVD5
+Philips Unknown_PHILIPS
+Philips Unknown_PHILIPS
+Philips Unknown_Philips-PMDVD6T-Universal-AUX
+Philips Unknown_philips-rc2592-MODE-v1
+Philips Unknown_PM725S
+Philips Unknown_R-48F01
+Philips Unknown_RC
+Philips Unknown_RC
+Philips Unknown_RC-2012
+Philips Unknown_RC-5
+Philips Unknown_RC-5
+Philips Unknown_RC-7843
+Philips Unknown_RC19042002
+Philips Unknown_RC19237006
+Philips Unknown_RC19335003-01P
+Philips Unknown_RC2034302
+Philips Unknown_RC2070
+Philips Unknown_RC2582
+Philips Unknown_RC5-BP6
+Philips Unknown_RC7507
+Philips Unknown_RC7843
+Philips Unknown_RC7925
+Philips Unknown_RC8244
+Philips Unknown_RC8861
+Philips Unknown_RCLE011
+Philips Unknown_rd5860.conf
+Philips Unknown_RD6834
+Philips Unknown_RT150
+Philips Unknown_RU120
+Philips Unknown_SBC
+Philips Unknown_SBC
+Philips Unknown_SBC-RU-520
+Philips Unknown_SF172
+Philips Unknown_SRM5100
+Philips Unknown_SRU
+Philips Unknown_STEREO
+Philips Unknown_TIVO
+Philips Unknown_TIVO34
+Philips Unknown_TV
+Philips Unknown_uDigital
+Philips Unknown_VCR
+Philips Unknown_VR175
+Phonotrend Unknown_Prestige
+Pinnacle Systems Unknown_300i
+Pinnacle Systems Unknown_800i
+Pinnacle Systems Unknown_PCTV
+Pinnacle Systems Unknown_RC-42D
+Pioneer Unknown_AXD-1531
+Pioneer Unknown_AXD-7306
+Pioneer Unknown_CD
+Pioneer Unknown_CU-CLD067
+Pioneer Unknown_CU-CLD106
+Pioneer Unknown_CU-PD008
+Pioneer Unknown_CU-PD038
+Pioneer Unknown_CU-PD046
+Pioneer Unknown_CU-PD069
+Pioneer Unknown_CU-PD085
+Pioneer Unknown_CU-PD089
+Pioneer Unknown_cu-pd096
+Pioneer Unknown_DEH-D8850
+Pioneer Unknown_PD-M650
+Pioneer Unknown_pioneer
+Pioneer Unknown_pioneer
+Pioneer Unknown_Pioneer-CU-XR014
+Pioneer Unknown_VXX2801
+PixelView Unknown_2000
+PixelView Unknown_PlayTV
+PLU2 Unknown_DVX-345pro
+Polaroid Unknown_DVDP-1000
+ProPlay Unknown_PS2
+Proscan Unknown_proscan-vcr
+Protek Unknown_Protek
+Provideo Unknown_PV951
+Provision Unknown_PR-DVD2.0
+Provision Unknown_PRDVD2166
+QUADRAL Unknown_RC-804
+Radio Shack Unknown_RadioShack
+Radio Shack Unknown_Radioshack2115
+Radio Shack Unknown_RS2142
+Radix Unknown_Alpha
+Radix Unknown_DT-X1
+Radix Unknown_DTR-9000-Twin
+Radix Unknown_lircd.conf
+Radix Unknown_radix
+Radix Unknown_SAT
+Raite Unknown_RaiteDVD-7xx
+Ranex Unknown_RGB
+RCA Unknown_BR-RCA
+RCA Unknown_DTA800b
+RCA Unknown_R130A1
+RCA Unknown_RCA-F20507CP
+RCA Unknown_RCZ
+RCA Unknown_TV
+Re.x Unknown_SDVD
+Recor Unknown_IRC-1304
+remotec Unknown_remotec
+remotec Unknown_remotec1072
+remotec Unknown_rm200
+remotec Unknown_TV
+ReplayTV Unknown_5000
+Revo Unknown_Blik
+Revoy Unknown_Revoy2200
+Rio Unknown_Audio
+roadstar Unknown_dvd
+Roku Unknown_Netflix
+Roku Unknown_Soundbridge
+Rolsen Unknown_DK5A
+Rolsen Unknown_K10B-C1
+Rotel Unknown_RR-925
+Rowa Unknown_RDVD104
+rubin Unknown_rubin
+SAB Unknown_Explorer
+SABA Unknown_SabaTC460
+SABA Unknown_TC3003
+Sagem Unknown_DVB-T-Receiver
+Sagem Unknown_HD103-C
+Sagem Unknown_Sagem
+Salora Unknown_SV6700
+Samsung Unknown_00011k
+Samsung Unknown_00021c
+Samsung Unknown_00054d
+Samsung Unknown_00056A
+Samsung Unknown_00077A
+Samsung Unknown_00092b
+Samsung Unknown_00092M
+Samsung Unknown_00104J
+Samsung Unknown_00104K
+Samsung Unknown_00198f
+Samsung Unknown_00225A
+Samsung Unknown_01043A
+Samsung Unknown_10107N
+Samsung Unknown_10116A
+Samsung Unknown_10420A
+Samsung Unknown_528Z
+Samsung Unknown_AA59-00316b
+Samsung Unknown_AA59-00332D
+Samsung Unknown_AA59-00370A
+Samsung Unknown_AA59-00382A
+Samsung Unknown_AA59-00600A
+Samsung Unknown_AA59-10026E
+Samsung Unknown_AA64-50236A
+Samsung Unknown_AH59-01527F
+Samsung Unknown_AH59-02345A
+Samsung Unknown_ARH-700
+Samsung Unknown_BN59-00507A
+Samsung Unknown_BN59-00538A
+Samsung Unknown_BN59-00603A
+Samsung Unknown_BN59-00609A
+Samsung Unknown_BN59-00634A
+Samsung Unknown_BN59-00678A
+Samsung Unknown_BN59-00683A
+Samsung Unknown_BN59-00685A
+Samsung Unknown_BN59-00856A
+Samsung Unknown_BN59-00861A
+Samsung Unknown_BN59-00865A
+Samsung Unknown_BN59-00869A
+Samsung Unknown_BN59-00940A
+Samsung Unknown_BRM-E1E
+Samsung Unknown_hifi
+Samsung Unknown_HLN507W
+Samsung Unknown_MF59
+Samsung Unknown_MF59-00242B
+Samsung Unknown_MF59-00291a
+Samsung Unknown_PR3914
+Samsung Unknown_RCD-M70
+Samsung Unknown_SAMSUNG
+Samsung Unknown_SAMSUNG
+Samsung Unknown_SAMSUNG
+Samsung Unknown_samsung-10095T
+Samsung Unknown_SAT
+Samsung Unknown_SFT-702E
+Samsung Unknown_SMT-1000T
+Samsung Unknown_SMT-H3050
+Samsung Unknown_SV-411X
+Samsung Unknown_SV-610X
+Samsung Unknown_SV-651B
+Samsung Unknown_SV-DVD3E
+Samsung Unknown_test
+Samsung Unknown_TV
+Samsung Unknown_VCR
+Samsung Unknown_VXK-336
+Samy Unknown_SDX1100
+Sansonic Unknown_FT-300A
+Sansui Unknown_SANSUI-RS-S103
+Sanyo Unknown_A05800
+Sanyo Unknown_B01004
+Sanyo Unknown_B01007
+Sanyo Unknown_B12628
+Sanyo Unknown_B13540
+Sanyo Unknown_RB-DA300
+Sanyo Unknown_RB-SL22
+Sanyo Unknown_RC-105C
+Sanyo Unknown_RC700
+Sanyo Unknown_Sanyo
+Sanyo Unknown_Sanyo
+Sanyo Unknown_Sanyo-B13509
+Sanyo Unknown_Sanyo-JXZB
+Sanyo Unknown_sanyo-tv01
+Sanyo Unknown_sanyoB13537
+Sanyo Unknown_TV
+Sanyo Unknown_VCR
+Schneider Unknown_FB2000
+Schneider Unknown_RC-193
+Schneider Unknown_RC202
+Schneider Unknown_RC901
+Schneider Unknown_RC902
+Schwaiger Unknown_DSR
+Scientific Atlanta Unknown_Atlanta-1840
+Scientific Atlanta Unknown_IV
+Scientific Atlanta Unknown_RM9834
+Scientific Atlanta Unknown_SAE8000
+Scott Unknown_DVD-838
+Scott Unknown_scott-dvd
+SEG Unknown_E6900-X020A
+SEG Unknown_SEG-DVD-430
+SEG Unknown_SEG-VCR4300
+SEG Unknown_SR-040
+SEG Unknown_SR-201
+SEG Unknown_SR800
+SEG Unknown_VCR
+SEG Unknown_VCR2000
+Sencor Unknown_SFN9011SL
+Sgi Unknown_SGIMON
+Sharp Unknown_CV-2131CK1
+Sharp Unknown_G0048TA
+Sharp Unknown_G0412GE
+Sharp Unknown_G0938CESA
+Sharp Unknown_G1014BMSA
+Sharp Unknown_G1044BMSA
+Sharp Unknown_GJ210
+Sharp Unknown_RRMCGA030WJSA
+Sharp Unknown_SHARP
+Sharp Unknown_sharp1781
+Sharpsat Unknown_T28
+Sherwood Unknown_GC-1285
+Sherwood Unknown_RM-101
+Sherwood Unknown_RM-636
+Sherwood Unknown_RM-RV-N25
+Sherwood Unknown_sherwood
+Sherwood Unknown_sherwood
+Sherwood Unknown_Sherwood-S2770R-CP-II
+Shinco Unknown_RC-1730
+Shuttle Unknown_mceusb
+Siemens Unknown_fb405
+Siemens Unknown_siemens-fb400
+Siemens Unknown_siemens1
+Sigma Designs Unknown_SIR
+Sigmatek Unknown_X100
+Sigmatek Unknown_XMB-510-PRO
+Silvercrest Unknown_RCH7S52
+Silvercrest Unknown_URC-801
+Sirius Unknown_SBKB-3201KR
+Sirius Unknown_Sportster
+Sirius Unknown_ST2
+Sitronics Unknown_RC-D010E
+Sky Unknown_DVB-S
+Sky Unknown_rev.4
+Skymaster Unknown_2421
+Skymaster Unknown_2424
+Skymaster Unknown_DCI
+Skymaster Unknown_skymaster
+Skymaster Unknown_SkymasterXLS99
+Skymaster Unknown_XL10
+Slim Art Unknown_SA-100
+Slim Devices Unknown_Devices
+SnapStream Unknown_Firefly-Mini
+Snazio Unknown_Net
+Sonicview Unknown_SV-360
+Sony Unknown_870
+Sony Unknown_CD
+Sony Unknown_CDIR
+Sony Unknown_CDP-790
+Sony Unknown_D1000
+Sony Unknown_DAT
+Sony Unknown_DVD
+Sony Unknown_DVD
+Sony Unknown_lircd.conf
+Sony Unknown_RM-687C
+Sony Unknown_RM-860
+Sony Unknown_RM-861
+Sony Unknown_RM-873
+Sony Unknown_rm-d10p
+Sony Unknown_RM-D190
+Sony Unknown_RM-D270
+Sony Unknown_RM-D295
+Sony Unknown_rm-d29m
+Sony Unknown_RM-D302
+Sony Unknown_RM-D320
+Sony Unknown_RM-D325
+Sony Unknown_RM-D391
+Sony Unknown_rm-d5
+Sony Unknown_RM-D520
+Sony Unknown_RM-D55
+Sony Unknown_RM-D690
+Sony Unknown_RM-D706
+Sony Unknown_RM-D797
+Sony Unknown_RM-D7M
+Sony Unknown_RM-D820
+Sony Unknown_RM-D90
+Sony Unknown_RM-D921
+Sony Unknown_RM-D991
+Sony Unknown_RM-DM7
+Sony Unknown_rm-dm9
+Sony Unknown_RM-DX740
+Sony Unknown_RM-ED019
+Sony Unknown_RM-PJP1
+Sony Unknown_RM-SG20
+Sony Unknown_RM-SG5
+Sony Unknown_RM-SG7
+Sony Unknown_RM-V211T
+Sony Unknown_RM-W101
+Sony Unknown_RM-X30
+Sony Unknown_RM-X40
+Sony Unknown_RM-X42
+Sony Unknown_RM-X47
+Sony Unknown_rm-x95
+Sony Unknown_RM-Y155B
+Sony Unknown_RM-Y173
+Sony Unknown_RM-Y180
+Sony Unknown_RM-Y800
+Sony Unknown_RM-Y812
+Sony Unknown_RMT-136
+Sony Unknown_RMT-506
+Sony Unknown_RMT-B101A
+Sony Unknown_RMT-CF1A
+Sony Unknown_RMT-D115P
+Sony Unknown_RMT-D126A
+Sony Unknown_RMT-D126E
+Sony Unknown_RMT-D129A
+Sony Unknown_RMT-DSC2
+Sony Unknown_RMT-V107
+Sony Unknown_RMT-V270
+Sony Unknown_RMT-V501A
+Sony Unknown_SONY
+Sony Unknown_sony-cd
+Sony Unknown_sonyRM-sep303
+Sony Unknown_sonytv
+Sony Unknown_TUNER
+Sony Unknown_tv
+Sony Unknown_tv
+Sony Unknown_VaioRemote
+Sony Unknown_VPL-W400
+Speed-link Unknown_SL-6399
+ST Unknown_DTTRC-4
+ST Unknown_HMP
+starhub Unknown_starhub
+Starsat Unknown_120
+Starview Unknown_Starview
+Streamzap Unknown_PC
+STRONG Unknown_STRONG
+Sumvision Unknown_Sumvision
+sun Unknown_sun
+Sungale Unknown_JX-2002
+Supermax Unknown_Supermax
+SUPERSQNY Unknown_KM-168
+Supportplus Unknown_SP-URC-LCD-F15
+SVEN Unknown_HT-475
+SVEN Unknown_IHOO
+Syabas Unknown_A-100
+Tab Electronics Unknown_Kit
+TCM Unknown_212845-CD
+TCM Unknown_218681
+TCM Unknown_225925
+TCM Unknown_225926
+TCM Unknown_96518
+TCM Unknown_TCM
+TCUAG Unknown_TVBOX
+TEAC Unknown_CD
+TEAC Unknown_RC-547
+TEAC Unknown_RC-548
+TEAC Unknown_RC-558
+TEAC Unknown_RC-614
+TEAC Unknown_RC-909
+TECHNICS Unknown_cd
+TECHNICS Unknown_EUR643880
+TECHNICS Unknown_EUR64798
+TECHNICS Unknown_EUR64799
+TECHNICS Unknown_EURXP300
+TECHNICS Unknown_sl-ps670a
+TECHNISAT Unknown_100TS035
+TECHNISAT Unknown_FBPNA35
+TECHNISAT Unknown_FBPVR335A
+TECHNISAT Unknown_st-6000e
+TECHNISAT Unknown_ST3002S
+TECHNISAT Unknown_ST3004S
+TECHNISAT Unknown_TECHNISAT
+TECHNISAT Unknown_TTS35AI
+TECHNISAT Unknown_TTS35AI.conf
+Technosonic Unknown_DVD-204
+Technotrend Unknown_DVB
+Technotrend Unknown_Micro
+Technotrend Unknown_remote
+Technotrend Unknown_S2400
+Technotrend Unknown_Technotrend
+Teleka Unknown_STR2060
+Televes Unknown_145075
+Televes Unknown_711701
+Tensai Unknown_5340fb
+Terratec Unknown_1400
+Terratec Unknown_Cinergy
+Terratec Unknown_Cinergy
+Terratec Unknown_Cinergy
+Terratec Unknown_home
+Terratec Unknown_M3PO
+Tesla Unknown_32LCD70WDGHD
+Tesla Unknown_Tesla
+Tesla Unknown_Tesla
+Tevion Unknown_3830
+Tevion Unknown_41666
+Tevion Unknown_DFA
+Tevion Unknown_DVD
+Tevion Unknown_MD
+Tevion Unknown_MD
+Tevion Unknown_MD-5410
+Tevion Unknown_MDC-982PLL
+Tevion Unknown_RS20536
+Tevion Unknown_SAT928
+Tevion Unknown_TDR-250HD
+Tevion Unknown_TDR51DV
+Tevion Unknown_TE-0603
+Tevion Unknown_TEV1020
+Tevion Unknown_Tevion-MD80383
+Tevion Unknown_Tevion-MD81035-ASAT-Code-0905
+Tevion Unknown_TevionMd3607
+Thinkgeek Unknown_Lightbulb
+Thompson Unknown_THOMPSON
+Thomson Unknown_230
+Thomson Unknown_RCS615TCLM1
+Thomson Unknown_TM9258
+Thomson Unknown_TV
+TiVo Unknown_Series1
+Tivoli Unknown_Sirius
+Tokai Unknown_DVD-715
+Topfield Unknown_PVR
+Topfield Unknown_TF4000Fi
+Topfield Unknown_TF4000PVR
+Topseed Unknown_Topseed
+Toshiba Unknown_CT-816
+Toshiba Unknown_CT-826
+Toshiba Unknown_CT-832
+Toshiba Unknown_CT-859
+Toshiba Unknown_CT-90038
+Toshiba Unknown_CT-90205
+Toshiba Unknown_CT-90298
+Toshiba Unknown_CT-90326
+Toshiba Unknown_CT-9573
+Toshiba Unknown_CT-9784
+Toshiba Unknown_CT-9881
+Toshiba Unknown_CT-9952
+Toshiba Unknown_G83C0008A110
+Toshiba Unknown_RM-614Q
+Toshiba Unknown_SE-R0031
+Toshiba Unknown_SE-R0049
+Toshiba Unknown_SE-R0058
+Toshiba Unknown_SE-R0127
+Toshiba Unknown_TOSHIBA
+Toshiba Unknown_TOSHIBA
+Toshiba Unknown_toshiba-RM-A210
+Toshiba Unknown_Toshiba-SE-R0047
+Toshiba Unknown_Toshiba-SE-R0090
+Toshiba Unknown_TOSHTV
+Toshiba Unknown_TSR-101R
+Toshiba Unknown_VC-642T
+Toshiba Unknown_VC-90B
+Toshiba Unknown_VT-11
+Toshiba Unknown_VT-204G
+Toshiba Unknown_VT-209W
+Toshiba Unknown_VT-75F
+Total Control Unknown_Control
+Total Media In Hand Unknown_Media
+Traxis Unknown_3500
+TRIAX Unknown_DVB
+trio Unknown_xms007
+Trust Unknown_RC-2400
+Trutech Unknown_TV
+Turtlebeach Unknown_Audiotron
+Twinhan Unknown_AD-SP200
+Twinhan Unknown_DTV
+Typhoon Unknown_DTV
+Typhoon Unknown_RC-0718-3
+UEC Unknown_DVB
+Ultrawave Unknown_3500PFTA
+Umax Unknown_D-701
+United Unknown_United-DVD4057M
+Universal Unknown_001
+Universal Unknown_006
+Universal Unknown_089
+Universal Unknown_101
+Universal Unknown_111
+Universal Unknown_cme
+Universal Unknown_Knopex
+Universal Unknown_lircd.conf
+Universal Unknown_lircd.conf
+Universal Unknown_lt3607-aux599
+Universal Unknown_MC-10
+Universal Unknown_Powerhouse
+Universal Unknown_RC
+Universal Unknown_RM-V211T
+Universal Unknown_RZ-55
+Universal Unknown_testrecord.config
+Universal Unknown_tv
+Universal Unknown_URC-6012w
+universum Unknown_universum
+universum Unknown_universum
+UPC Unknown_SAT
+Venturer Unknown_boombox
+Venturer Unknown_STB7766G1
+Vestel Unknown_TV
+Video7 Unknown_Video7-RC750
+videologic Unknown_rm201
+Viewmaster Unknown_RC-03
+viewmaxpro Unknown_viewmaxpro
+Viewsat Unknown_SAT
+Viewsat Unknown_VS2000
+ViewSonic Unknown_98TR7BD-ONT-VSF
+ViewSonic Unknown_RC00070P
+ViewSonic Unknown_vsnv6
+Virgin-media Unknown_VIRGINTIVO
+Visionetics Unknown_Cable
+Vistron Unknown_DVD-5211
+Vistron Unknown_LTM-3271E
+Vivanco Unknown_DVD
+Vivanco Unknown_UR2
+Vivanco Unknown_ur89
+Vizio Unknown_Vizio
+Vizio Unknown_VX37L
+Voxson Unknown_PT2222-1
+WD Unknown_HDTVMediaPlayerV1
+WD Unknown_TV
+Westinghouse Unknown_LVM-47W1
+Westinghouse Unknown_RMT
+Wilfa Unknown_RVC-17
+Xlogic Unknown_XLOGIC-KF8000D
+XMS Unknown_XMS503
+XORO Unknown_DVB
+xsat Unknown_xsat
+Xtreamer Unknown_Xtreamer
+Yakumo Unknown_DVD
+Yamada Unknown_DVX-6xxx
+Yamada Unknown_PVD-500
+Yamaha Unknown_av
+Yamaha Unknown_cdx-493
+Yamaha Unknown_DVD
+Yamaha Unknown_DVD-RC
+Yamaha Unknown_JVCDVD
+Yamaha Unknown_RAV-12
+Yamaha Unknown_RAV14
+Yamaha Unknown_RAV16
+Yamaha Unknown_RAV207
+Yamaha Unknown_rax9
+Yamaha Unknown_RCX
+Yamaha Unknown_RCX-750
+Yamaha Unknown_RCX2
+Yamaha Unknown_RCX660
+Yamaha Unknown_receiver
+Yamaha Unknown_RS-CD5
+Yamaha Unknown_RS-CX600
+Yamaha Unknown_RS-K3
+Yamaha Unknown_RX-450
+Yamaha Unknown_RX-CX800
+Yamaha Unknown_RX-V850
+Yamaha Unknown_TX-1000
+Yamaha Unknown_V499920
+Yamaha Unknown_VI47320
+Yamaha Unknown_VI77760
+Yamaha Unknown_VJ59810
+Yamaha Unknown_VJI5420
+Yamaha Unknown_VK34080
+Yamaha Unknown_VK38010
+Yamaha Unknown_VM70300
+Yamaha Unknown_VP59040
+Yamaha Unknown_VQ95010
+Yamaha Unknown_VR81350
+Yamaha Unknown_vu50620
+Yamaha Unknown_VU71330
+Yamaha Unknown_Y-TV-1004
+Yamaha Unknown_YAMAHA
+Yamaha Unknown_yamaha-amp
+Yamaha Unknown_yamaha-rax7
+Yamakawa Unknown_dvd285vga
+YES Unknown_YES
+Yuan Unknown_SmartVDO
+Zalman Unknown_HD160XT
+Zehnder Unknown_VCR
+Zenith Unknown_AKB36157102
+Zenith Unknown_C32V37
+Zenith Unknown_TV
+Zenith Unknown_VCR
+Zenith Unknown_ZN5015
+Zolid Unknown_ZOL100
+Zoltrix Unknown_Zoltrix
+Zyxel Unknown_DMA-1000
